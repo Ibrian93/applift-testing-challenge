@@ -6,7 +6,7 @@
   "scripts": {
     "cypress:install": "npx cypress install",
     "cypress:open": "npx cypress open",
-    "cypress:run": "npx cypress run"
+    "cypress:run:chrome": "npx cypress run --browser chrome"
   },
   "repository": {
     "type": "git",
