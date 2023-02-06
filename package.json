@@ -1,0 +1,24 @@
+{
+  "name": "applift-testing-challenge",
+  "version": "1.0.0",
+  "description": "Applift testing challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibrian93/applift-testing-challenge.git"
+  },
+  "keywords": [
+    "cypress",
+    "typescript",
+    "test-automation"
+  ],
+  "author": "Brian Icochea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibrian93/applift-testing-challenge/issues"
+  },
+  "homepage": "https://github.com/Ibrian93/applift-testing-challenge#readme"
+}
